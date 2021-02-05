@@ -10,5 +10,6 @@ public class MessageKeys {
 	public static final String ORDER_MISSING = "order.missing";
 	public static final String ORDER_INDRAFT = "order.indraft";
 	public static final String BUPA_MISSING = "bupa.missing";
-
+	public static final String REVIEW_INVALID_RATING = "review.invalid.rating";
+	
 }
